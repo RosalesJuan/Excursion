@@ -6,3 +6,18 @@ html{
     text-align: center;
     background-color:black;
 }
+
+a{
+    font-size: 0.32rem;
+    color: aquamarine !important;
+}
+
+#phone .phone-title{
+    font-weight: 300;
+    font-size: 0.84rem;
+}
+
+#quote .guide h5{
+    font-size: 0.42rem;
+    color: gray;
+}
