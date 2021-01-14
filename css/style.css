@@ -4,7 +4,7 @@ html{
     font-size: 50px;
     color: #ffffff;
     text-align: center;
-    background-color:black;
+    background-color: #000000;
 }
 
 a{
@@ -12,12 +12,20 @@ a{
     color: aquamarine !important;
 }
 
-#phone .phone-title{
+h2{
     font-weight: 300;
     font-size: 0.84rem;
+}
+#quote .guide img{
+    padding: .125rem;
+    margin: .125rem;
 }
 
 #quote .guide h5{
     font-size: 0.42rem;
     color: gray;
+}
+
+#coming a{
+    padding-bottom: 1.25rem;
 }
